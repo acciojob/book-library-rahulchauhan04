@@ -22,10 +22,10 @@ p{
 }
 
 .price-block{
-	background-color:green;
+	background-color:rgb(46, 204, 113);
 	border:none;
 	border-radius:5px;
-	color:#2ecc71;
+	color:white;
 	margin:10px;
 	text-align:center;
 	padding:10px;
