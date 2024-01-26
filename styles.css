@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+}
+h1{
+	text-align:center;
+}
+
+
+.book-library{
+	background-color:#ffffff;
+}
+
+.book{
+	text-align:center;
+}
+h3,p{
+	text-align:start;
+}
+
+.price-block{
+	background-color:green;
+	border:none;
+	border-radius:5px;
+	color:white;
+	margin:10px;
+	text-align:center;
+	padding:10px;
+}
+
+
